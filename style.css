@@ -1,0 +1,38 @@
+body {
+  background-color: #e9c46a;
+}
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-optical-sizing: auto;
+}
+h1{color: #c44900}
+ol{ color: rgb(105, 116, 66);}
+div{ background-color: rgb(38, 109, 99);}
+#ldb{ background-color: rgb(40, 78, 78);}
+#fs{  background-color: rgb(25, 45, 45);}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ebbd48;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(11, 120, 111);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #1b4965
+}
+
+hr{color: #59473d;}
+
